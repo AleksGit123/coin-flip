@@ -1,0 +1,11 @@
+@media(max-width:635px) {
+    .flip_the_coin {
+        font-size: 54px;
+        -webkit-text-stroke-width: 4px;
+        line-height: 54px;
+    }
+
+    .flip_the_coin_p {
+        font-size: 20px;
+    }
+}
